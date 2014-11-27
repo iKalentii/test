@@ -8,5 +8,12 @@ namespace TestLibrary
 {
     public class Class1
     {
+        public Class1()
+        {
+            var i = 1;
+            var j = 2;
+
+            var f = i + j;
+        }
     }
 }
