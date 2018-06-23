@@ -10,6 +10,7 @@ namespace TestLibrary
     {
         public Class1()
         {
+			123;
         }
     }
 }
